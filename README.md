@@ -1,2 +1,3 @@
 # Hospital-operations
-question1
+question1 and 2 
+deffered exam 
